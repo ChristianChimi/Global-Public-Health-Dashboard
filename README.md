@@ -2,7 +2,7 @@
 
 This project focuses on combining multiple public health datasets to create a unified view that enables analysis of global health trends. SQL queries are used to join and clean the data, providing a solid foundation for statistical analysis, reporting, or interactive dashboard development.
 
-##**Pre-Processing**
+## **Pre-Processing**
 - Created a SQL view called GlobalHealth that merges four different datasets:
   - DTP3: Coverage of DTP3 (Diphtheria, Tetanus, Pertussis) vaccine
   - POL3: Coverage of POL3 (Polio) vaccine
@@ -16,7 +16,7 @@ This project focuses on combining multiple public health datasets to create a un
 - Applies ROUND(..., 2) to numeric fields to limit the number of decimal places to 2, improving readability.
 - Export to unique dataset for PowerBI
 
-##**PowerBI**
+## **PowerBI**
 - Visualized trends:
     - Coverage of DTP3
     - Coverage of POL3
