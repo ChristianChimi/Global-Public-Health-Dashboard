@@ -1,5 +1,5 @@
 ## Global-Public-Health-Dashboard
-
+## **Overview**
 This project focuses on combining multiple public health datasets to create a unified view that enables analysis of global health trends. SQL queries are used to join and clean the data, providing a solid foundation for statistical analysis, reporting, or interactive dashboard development.
 
 ## **Pre-Processing**
