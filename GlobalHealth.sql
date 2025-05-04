@@ -29,6 +29,7 @@ SELECT
     "Year",
     "DTP3" as "DTP3_Share",
     "POL3" as "POL3_Share",
-    "Child Mortality Rate" as "Child_Mortality_Rate", 
-    "Life Expectancy" as "Life_Expectancy"
-FROM globalhealth;
+    Round("Child Mortality Rate",2) as "Child_Mortality_Rate", 
+    Round("Life Expectancy",2) as "Life_Expectancy"
+FROM globalhealth
+ORDER BY "Year"
