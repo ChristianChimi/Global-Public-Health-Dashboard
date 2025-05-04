@@ -25,3 +25,6 @@ This project focuses on combining multiple public health datasets to create a un
     - Life Expectancy.
 - Median value for each one, as KPI.
 - Created a filter to visualize data for a selected country.
+
+## **Technologies Used**
+    - ** pgAdmin4**, **SQL**, **PowerBI**.
