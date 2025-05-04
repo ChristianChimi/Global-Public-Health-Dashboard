@@ -12,10 +12,10 @@ This project focuses on combining multiple public health datasets to create a un
       - These datasets are joined using INNER JOINs on both:
         - Entity (country or region).
         - Year (the year of the record).
-   - Renamed Entity to Country for readability.
-   - Renames the vaccine columns to make it clear they represent a share/percentage.
-   - Applies ROUND(..., 2) to numeric fields to limit the number of decimal places to 2, improving readability.
-    - Export to unique dataset for PowerBI
+       - Renamed Entity to Country for readability.
+       - Renames the vaccine columns to make it clear they represent a share/percentage.
+       - Applies ROUND(..., 2) to numeric fields to limit the number of decimal places to 2, improving readability.
+        - Export to unique dataset for PowerBI
 
 ## **PowerBI**
     - Visualized trends:
