@@ -27,4 +27,4 @@ This project focuses on combining multiple public health datasets to create a un
 - Created a filter to visualize data for a selected country.
 
 ## **Technologies Used**
-    - **pgAdmin4**, **SQL**, **PowerBI**.
+- **pgAdmin4**, **SQL**, **PowerBI**.
