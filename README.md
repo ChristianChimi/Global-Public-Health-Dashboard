@@ -19,13 +19,13 @@ Datasets: https://ourworldindata.org/explorers/global-health?tab=table&pickerSor
 - Exported to unique dataset for PowerBI
 
 ## **PowerBI**
-    - Visualized trends:
-        - Coverage of DTP3.
-        - Coverage of POL3.
-        - Child Mortality rate.
-        - Life Expectancy.
-    - Median value for each one, as KPI.
-    - Created a filter to visualize data for a selected country.
+- Visualized trends:
+    - Coverage of DTP3.
+      - Coverage of POL3.
+      - Child Mortality rate.
+      - Life Expectancy.
+- Median value for each one, as KPI.
+- Created a filter to visualize data for a selected country.
 
 ## **Key Insights**
     - Life expectancy has increased significantly.
