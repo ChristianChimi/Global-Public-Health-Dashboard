@@ -1,7 +1,9 @@
 ## Global-Public-Health-Dashboard
 ## **Overview**
 This project focuses on combining multiple public health datasets to create a unified view that enables analysis of global health trends. SQL queries are used to join and clean the data, providing a solid foundation for statistical analysis, reporting, or interactive dashboard development.
-[Real Dataset from Our World in Data !](https://ourworldindata.org/explorers/global-healthtab=table&pickerSort=asc&pickerMetric=entityName&Health+Area=Life+expectancy&Indicator=Life+expectancy+at+birth&Metric=Rate&Source=UN+WPP&country=OWID_WRL~CHN~ZAF~BRA~USA~GBR~IND~RWA)
+[Real Dataset from Our World in Data !](https://ourworldindata.org/explorers/global-health?tab=table&pickerSort=asc&pickerMetric=entityName&Health+Area=Life+expectancy&Indicator=Life+expectancy+at+birth&Metric=Rate&Source=UN+WPP&country=OWID_WRL~CHN~ZAF~BRA~USA~GBR~IND~RWA)
+
+
 
 
 ## **Pre-Processing**
