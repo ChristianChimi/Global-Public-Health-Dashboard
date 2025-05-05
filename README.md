@@ -28,10 +28,10 @@ Datasets: https://ourworldindata.org/explorers/global-health?tab=table&pickerSor
 - Created a filter to visualize data for a selected country.
 
 ## **Key Insights**
-    - Life expectancy has increased significantly.
-    - World's life expectancy is 73 years while child mortality is 3,6%.
-    - POL3 and DPT3 vaccines have reached 83% coverage.  
-    - The use of interactive dashboards allows stakeholders to filter data by country and track health trends over time, making this a valuable tool for policy analysis and targeted intervention planning.
+- Life expectancy has increased significantly.
+- World's life expectancy is 73 years while child mortality is 3,6%.
+- POL3 and DPT3 vaccines have reached 83% coverage.  
+- The use of interactive dashboards allows stakeholders to filter data by country and track health trends over time, making this a valuable tool for policy analysis and targeted intervention planning.
 
 ## **Conclusions**     
 This analysis highlights important global health trends derived from the integration of vaccine coverage, child mortality, and life expectancy data. By unifying multiple datasets and visualizing key indicators in Power BI, we gained clear insights into long-term improvements and current challenges in public health.
