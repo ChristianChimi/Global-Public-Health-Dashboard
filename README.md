@@ -10,13 +10,13 @@ Datasets: https://ourworldindata.org/explorers/global-health?tab=table&pickerSor
     - POL3: Coverage of POL3 (Polio) vaccine.
     - ChildMortalityRate: Mortality rate of children under five years of age.
     - LifeExpectancy: Average life expectancy at birth.
-    - These datasets are joined using INNER JOINs on both:
-        - Entity (country or region).
-        - Year (the year of the record).
-    - Renamed Entity to Country for readability.
-    - Renames the vaccine columns to make it clear they represent a share/percentage.
-    - Applied ROUND(..., 2) to numeric fields to limit the number of decimal places to 2, improving readability.
-    - Exported to unique dataset for PowerBI
+- These datasets are joined using INNER JOINs on both:
+  - Entity (country or region).
+  - Year (the year of the record).
+- Renamed Entity to Country for readability.
+- Renames the vaccine columns to make it clear they represent a share/percentage.
+- Applied ROUND(..., 2) to numeric fields to limit the number of decimal places to 2, improving readability.
+- Exported to unique dataset for PowerBI
 
 ## **PowerBI**
     - Visualized trends:
