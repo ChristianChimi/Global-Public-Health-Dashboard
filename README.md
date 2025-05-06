@@ -8,9 +8,9 @@ This project focuses on combining multiple public health datasets to create a un
 - Created all the tables on my PosteSql server.
 - Created a SQL view called GlobalHealth that merges four different datasets:
   - DTP3: Coverage of DTP3 (Diphtheria, Tetanus, Pertussis) vaccine.
-    - POL3: Coverage of POL3 (Polio) vaccine.
-    - ChildMortalityRate: Mortality rate of children under five years of age.
-    - LifeExpectancy: Average life expectancy at birth.
+  - POL3: Coverage of POL3 (Polio) vaccine.
+  - ChildMortalityRate: Mortality rate of children under five years of age.
+  - LifeExpectancy: Average life expectancy at birth.
 - These datasets are joined using INNER JOINs on both:
   - Entity (country or region).
   - Year (the year of the record).
