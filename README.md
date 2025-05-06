@@ -1,10 +1,8 @@
 ## Global-Public-Health-Dashboard
 ## **Overview**
 This project focuses on combining multiple public health datasets to create a unified view that enables analysis of global health trends. SQL queries are used to join and clean the data, providing a solid foundation for statistical analysis, reporting, or interactive dashboard development.
+
 [Real Dataset from Our World in Data !](https://ourworldindata.org/explorers/global-health?tab=table&pickerSort=asc&pickerMetric=entityName&Health+Area=Life+expectancy&Indicator=Life+expectancy+at+birth&Metric=Rate&Source=UN+WPP&country=OWID_WRL~CHN~ZAF~BRA~USA~GBR~IND~RWA)
-
-
-
 
 ## **Pre-Processing**
 - Created all the tables on my PosteSql server.
@@ -19,7 +17,7 @@ This project focuses on combining multiple public health datasets to create a un
 - Renamed Entity to Country for readability.
 - Renames the vaccine columns to make it clear they represent a share/percentage.
 - Applied ROUND(..., 2) to numeric fields to limit the number of decimal places to 2, improving readability.
-- Exported to unique dataset for PowerBI
+- Exported to unique dataset for PowerBI.
 
 ## **PowerBI**
 - Visualized trends:
@@ -36,8 +34,8 @@ This project focuses on combining multiple public health datasets to create a un
 - POL3 and DPT3 vaccines have reached 83% coverage.  
 - The use of interactive dashboards allows stakeholders to filter data by country and track health trends over time, making this a valuable tool for policy analysis and targeted intervention planning.
 
-## **Conclusions**     
-This analysis highlights important global health trends derived from the integration of vaccine coverage, child mortality, and life expectancy data. By unifying multiple datasets and visualizing key indicators in Power BI, we gained clear insights into long-term improvements and current challenges in public health.
-
 ## **Technologies Used**
 - **pgAdmin4**, **SQL**, **PowerBI**.
+
+## **Conclusions**     
+This analysis evidence important global health trends from the integration of vaccine coverage, child mortality, and life expectancy data. By unifying multiple datasets and visualizing key indicators in Power BI, we gained clear insights into long-term improvements and current challenges in public health.
